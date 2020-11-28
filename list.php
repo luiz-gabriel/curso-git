@@ -2,7 +2,7 @@
 	
 	$list = 
 	[
-		"Livros" => ['Dom casmurro','As cronicas de narnia']
+		"Leitura" => ['Trono de ossos','As cronicas de narnia']
 	];
 
 ?>
